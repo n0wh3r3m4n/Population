@@ -1,4 +1,4 @@
-# Population
+# Población
  
 En 2021, la [Iniciativa Latinoamericana de Datos Abiertos](https://idatosabiertos.org/) lanzó un proyecto titulado “Futuros AbreLatam”, el cual intenta explorar cómo será la región en el año 2050 y qué rol jugarán los datos en el camino hacia ese futuro. El ejercicio es muy útil para identificar riesgos potenciales que hoy pueden ser mitigados, así como oportunidades que podrían ser iniciadas o aceleradas desde hoy. Pueden ver los blogs y fanzines que recogen estos potenciales escenarios futuros [aquí](https://futuros.abrelatam.org/).
 
